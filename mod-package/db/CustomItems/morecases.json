@@ -235,7 +235,7 @@
           "barters": [
             {
               "count": 1,
-              "_tpl": "59fb042886f7746c5005a7b2"
+              "_tpl": "5b7c710788a4506dec015957"
             },
             {
               "count": 3,
@@ -362,7 +362,8 @@
               {
                 "Filter": [
                   "543be5dd4bdc2deb348b4569",
-                  "57864a3d24597754843f8721"
+                  "57864a3d24597754843f8721",
+                  "543be5e94bdc2df1348b4568"
                 ]
               }
             ]
@@ -385,7 +386,7 @@
       "JAEGER": {
         "c1ddad5beb216fbd6d317415": {
           "barterSettings": {
-            "loyalLevel": 3,
+            "loyalLevel": 4,
             "unlimitedCount": true,
             "stackObjectsCount": 999999,
             "buyRestrictionMax": 1,
